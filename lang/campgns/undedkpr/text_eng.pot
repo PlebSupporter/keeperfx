@@ -47,27 +47,27 @@ msgstr ""
 
 #: guitext:3
 msgctxt "In-game message"
-msgid "The first domino falls here! Can we assume the prisoners will be properly taken care of?!"
+msgid "The first domino falls here. The prisoners will be properly taken care of, I hope?"
 msgstr ""
 
 #: guitext:4
 msgctxt "In-game message"
-msgid "The Cathedral is currently under siege by one of Keeper Bane's underlings. Make haste and unearth the treasuries buried here."
+msgid "The Cathedral is currently under siege by one of Keeper Bane's underlings. Make haste and unearth the treasures buried here."
 msgstr ""
 
 #: guitext:5
 msgctxt "In-game message"
-msgid "Outstanding, Master! Now things will become more interesting."
+msgid "Bane's servant advances on the cathedral. Do not let the defenders add to our enemy's growing undead army!"
 msgstr ""
 
 #: guitext:6
 msgctxt "In-game message"
-msgid "Just as I thought, the Victor was decided before the fight even began!"
+msgid "Just as I thought, the victor was decided before the fight even began!"
 msgstr ""
 
 #: guitext:7
 msgctxt "In-game message"
-msgid "This fortress is the last bastion of the Heroes. It is said that the construction took several hundred years, but I'm sure you can demolish it in an instant? However, be warned; there is evil within those walls."
+msgid "This fortress is the last bastion of the heroes. While it is said the construction took hundreds of years, I am sure you can demolish it in an instant. Be warned however; there is great power within those walls."
 msgstr ""
 
 #: guitext:8
@@ -77,18 +77,18 @@ msgstr ""
 
 #: guitext:9
 msgctxt "In-game message"
-msgid "The Avatar is also among us! May I suggest we capture, torture him and listen to the wonderful sound of his bones being shattered?"
+msgid "The Avatar stands among our enemies! May I suggest we capture and torture him, and listen to the wonderful sound of his bones being shattered?"
 msgstr ""
 
 #: guitext:10
 msgctxt "In-game message"
-msgid "Ahh, now this is what I like to call absolute CARNAGE! Can we move on please? This place has become too corpsy for my liking."
+msgid "Ahh, now this is what I would call absolute CARNAGE! Can we move on please? This place has become too corpsy for my liking."
 msgstr ""
 
 #: guitext:11
 msgctxt "In-game message"
 msgid ""
-"This is an ancient realm full of riches, which you must use to your advantage. You are outnumbered, and your library has been captured by the vile warlocks in the East. Make them pay for this theft with their lives!"
+"This is an ancient realm full of riches, which you must use to your advantage. You are outnumbered, and your library has been captured by the vile warlocks to the east. Make them pay for this theft with their lives!"
 msgstr ""
 
 #: guitext:12
@@ -98,17 +98,17 @@ msgstr ""
 
 #: guitext:13
 msgctxt "In-game message"
-msgid "Another one bites the dust! Let us not waste too much time on these rookies, as greater challenges await on the horizon."
+msgid "Another one bites the dust! Let us not waste too much time on these weaklings, as greater challenges await on the horizon."
 msgstr ""
 
 #: guitext:14
 msgctxt "In-game message"
-msgid "A vast legion is hosted in this realm. However, with it's commanders being at odds, this makes the battle quite diverse. Quickly gather your forces and attack whilst there is still a state of confusion!"
+msgid "A vast legion is hosted in this realm. However its commanders are at odds and subject to in-fighting. Quickly gather your forces and enter the fray whilst there is still a state of confusion!"
 msgstr ""
 
 #: guitext:15
 msgctxt "In-game message"
-msgid "You cannot hope for victory without a portal to attract creatures. Go out and seek one."
+msgid ""
 msgstr ""
 
 #: guitext:16
